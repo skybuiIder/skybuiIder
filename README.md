@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+<img src="https://files.catbox.moe/ntwmhm.png"/>
+</p>
+<p align="center">
+<sub>﹒﹒pfp by @sottohhhhh</sub>
 
-<!--
-**skybuiIder/skybuiIder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+＞⠀⠀⠀<ins>bryce</ins>⠀or⠀xavier
 
-Here are some ideas to get you started:
+<p align="center">
+⠀⠀⠀ <img src="https://files.catbox.moe/2s676t.webp"/> ⠀⠀➜⠀⠀he⠀<ins>they ！</ins>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+⠀⠀⠀⠀⠀<a href="https://x.com/20csent">twt</a> ⠀⠀⠀ <a href="https://poweringimagination.atabook.org/">ata</a> ⠀⠀⠀  <a href="https://skybuiider.straw.page/">straw</a>
