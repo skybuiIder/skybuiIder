@@ -5,7 +5,7 @@
 <sub>﹒﹒pfp by @sottohhhhh</sub>
 
 <p align="center">
-＞⠀⠀<ins>kyle</ins>⠀,⠀bryce⠀or⠀xavier
+＞⠀⠀<ins>bryce</ins>⠀or⠀xavier
 
 <p align="center">
 ⠀ <img src="https://files.catbox.moe/2s676t.webp"/> ⠀⠀➜⠀⠀he⠀<ins>they ！</ins>
