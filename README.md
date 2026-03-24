@@ -7,7 +7,7 @@
 <p align="center">
    <a href="https://x.com/lukesleafzt">x,</a>
    <a href="https://buildermonkiss.atabook.org/">ata,</a>
-  <a href="https://en.pronouns.page/@buildermans">enprns</a>
+  <a href="https://rentry.co/buildermonyaoi">rentry</a>
 </p>
 <p align="center">
    13/02/2026 Hi andrew
