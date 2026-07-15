@@ -28,6 +28,6 @@ ${\color{#7c6f67}\normalsize{⠀⠀19}}$
 </p>
 
 <p align="center">
-<a href="https://rentry.co/ivanandrew">shared1</a> ⠀
+<a href="https://rentry.co/decayduo">shared1</a> ⠀
 <a href="https://rentry.co/threeneighbors">shared2</a>
   </p>
