@@ -26,3 +26,8 @@ ${\color{#7c6f67}\normalsize{⠀⠀19}}$
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=skybuiider&color=blue" alt="watching_count" />
 </p>
+
+<p align="center">
+<a href="https://rentry.co/ivanandrew">shared1</a> ⠀
+<a href="https://rentry.co/threeneighbors">shared2</a>
+  </p>
