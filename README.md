@@ -16,7 +16,7 @@ ${\color{#7c6f67}\normalsize{⠀⠀19}}$
 <img src="https://files.catbox.moe/lsh3ox.png">
 </p>
 <p align="center">
-<a href="https://buildermonkiss.atabook.org/">
+<a href="https://builds.atabook.org/">
   <img src="https://files.catbox.moe/vgb414.png">
 
 <a href="https://rentry.co/buildermonyaoi">
