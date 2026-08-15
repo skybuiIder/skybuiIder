@@ -28,7 +28,6 @@
 
   <summary> ${\textsf{\color{#e39d52} ⭔}}$ ${\textsf{\color{#eeece4}  shared rentries }}$ </summary>
 
-⠀
 <p align="left">
 <a href="https://rentry.co/decayduo">decay duo</a> ⠀
   ⌗⠀
@@ -41,8 +40,6 @@
 <a href="https://builds.atabook.org/">
   <img src="https://file.garden/aLDFbcUbukO-dImp/atabooks.png" width="79">
   
-
-
 <a href="https://rentry.co/buildermonyaoi">
   <img src="https://file.garden/aLDFbcUbukO-dImp/rentrys.png" width="79">
 </a>
