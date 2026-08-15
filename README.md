@@ -2,7 +2,7 @@
 <img src="https://file.garden/aLDFbcUbukO-dImp/bmonpi1.png"width="445" height="111" />
 </p>
 
-<p align="center"><img width="250" src="https://file.garden/aLDFbcUbukO-dImp/bmonpi255.png" alt="cred" align="right" width="300" /></p>
+<p align="center"><img width="300" src="https://file.garden/aLDFbcUbukO-dImp/bmonpi255.png" alt="cred" align="right" width="300" /></p>
   <table>
     <tr>
       <td>
