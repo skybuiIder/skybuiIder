@@ -1,33 +1,12 @@
 <p align="center">
-<img src="https://files.catbox.moe/bzyzx3.png">
+<img src="https://file.garden/aLDFbcUbukO-dImp/bmonpi1.png"width="445" height="111" />
 </p>
 
-<p align="center">
-${\color{#55575e}\normalsize{﹠⠀﹒⠀}}$ 
-${\color{#7c949b}\normalsize{lucas⠀sean}}$
-  </p>
-<p align="center">
-${\color{#7c949b}\normalsize{⠀⠀⌗⠀⠀︶︶⠀⠀}}$ 
-${\color{#55575e}\normalsize{he⠀it}}$ 
-${\color{#7c6f67}\normalsize{⠀⠀19}}$ 
-  </p>
+<p align="center"><img width="370" src="https://file.garden/aLDFbcUbukO-dImp/bmonpi255.png" alt="cred" align="right" width="300" /></p>
+  <table>
+    <tr>
+      <td>
+     $${\color{#df802a}⠀⠀⠀⠀⠀⠀⠀I⠀can't⠀tell⠀if⠀you're⠀blessing⠀us⠀or⠀cursing⠀us⠀.}$$　<br>
 
-<p align="center">
-<img src="https://files.catbox.moe/lsh3ox.png">
-</p>
-<p align="center">
-<a href="https://builds.atabook.org/">
-  <img src="https://files.catbox.moe/vgb414.png">
-
-<a href="https://rentry.co/buildermonyaoi">
-  <img src="https://files.catbox.moe/fg6ooq.png">
-</a>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=skybuiider&color=blue" alt="watching_count" />
-</p>
-
-<p align="center">
-<a href="https://rentry.co/decayduo">shared1</a> ⠀
-<a href="https://rentry.co/threeneighbors">shared2</a>
-  </p>
+        
+     dawg wait i have to go work in progress
