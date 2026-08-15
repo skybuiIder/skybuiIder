@@ -1,3 +1,8 @@
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=skybuiider&color=orange" alt="watching_count" />
+</p>
+
 <p align="center">
 <img src="https://file.garden/aLDFbcUbukO-dImp/bmonpi1.png"width="445" height="111" />
 </p>
@@ -17,17 +22,27 @@
 
 <p align="center"><img width="310" src="https://file.garden/aLDFbcUbukO-dImp/bmonpi33.png" align="left" width="300" /></p>
 
-</p>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=skybuiider&color=orange" alt="watching_count" />
-</p>
 
 
 <details>
 
-  <summary> ${\textsf{\color{#e39d52} ⭔}}$ ${\textsf{\color{#eeece4}  ext }}$ </summary>
+  <summary> ${\textsf{\color{#e39d52} ⭔}}$ ${\textsf{\color{#eeece4}  shared rentries }}$ </summary>
 
-${\textsf{\color{#eeece4} fuuuuuuck i have done jackshit other than jack off to buildermon.. fuhghhhhhhhhh imdead }}$ </br>
-${\textsf{\color{#e39d52} if you see this rightnow the readme is still wip }}$ </br>
-
+⠀
+<p align="left">
+<a href="https://rentry.co/decayduo">decay duo</a> ⠀
+  ⌗⠀
+<a href="https://rentry.co/threeneighbors">three neighbours</a>
+  </p>
 </details>
+
+
+<p align="left">
+<a href="https://builds.atabook.org/">
+  <img src="https://file.garden/aLDFbcUbukO-dImp/atabooks.png" width="79">
+  
+
+
+<a href="https://rentry.co/buildermonyaoi">
+  <img src="https://file.garden/aLDFbcUbukO-dImp/rentrys.png" width="79">
+</a>
