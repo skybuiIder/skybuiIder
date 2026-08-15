@@ -6,8 +6,8 @@
   <table>
     <tr>
       <td>
-     $${\color{#edb058}I⠀can't⠀tell⠀if⠀you're⠀blessing⠀us}$$
-   $${\color{#d75b5b}or⠀cursing⠀us}$$ <br>
+     $${\color{#edb058}⠀⠀⠀⠀⠀I⠀can't⠀tell⠀if⠀you're⠀blessing⠀us}$$
+   $${\color{#d75b5b}or⠀cursing⠀us⠀⠀⠀⠀⠀}$$ <br>
       </td>
     </tr>
   </table>
