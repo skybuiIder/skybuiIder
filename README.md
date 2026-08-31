@@ -40,6 +40,6 @@
 <a href="https://builds.atabook.org/">
   <img src="https://file.garden/aLDFbcUbukO-dImp/atabooks.png" width="79">
   
-<a href="https://rentry.co/buildermonyaoi">
-  <img src="https://file.garden/aLDFbcUbukO-dImp/rentrys.png" width="79">
+<a href="https://builds.straw.page/">
+  <img src="https://file.garden/aLDFbcUbukO-dImp/Untitled324_20260831220424.png" width="100">
 </a>
